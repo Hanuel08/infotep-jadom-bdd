@@ -11,7 +11,7 @@ El repositorio está organizado por módulos de aprendizaje y contiene scripts S
 El proyecto está estructurado de la siguiente manera:
 
 *   **📂 [modulo-1](file:///home/hanuel/main/personal/courses/programming/infotep-jadom/modulo-1)**: Contiene investigaciones teóricas, diagramas de diseño de base de datos (`draw.io`) y guías de configuración de herramientas como SQL Workbench en formatos `.docx` y `.pdf`.
-*   **📂 [modulo-2](file:///home/hanuel/main/personal/courses/programming/infotep-jadom/modulo-2)**: Contiene guías de instalación, asignaciones de investigación adicionales y los enunciados oficiales de las prácticas (`practica-1` a `practica-4`) en formatos `.docx` y `.pdf`.
+*   **📂 [modulo-2](file:///home/hanuel/main/personal/courses/programming/infotep-jadom/modulo-2)**: Contiene los resultados de instalaciones, asignaciones de investigación adicionales y los enunciados oficiales de las prácticas (`practica-1` a `practica-4`) en formatos `.docx` y `.pdf`.
 *   **📄 [prestamo.sql](file:///home/hanuel/main/personal/courses/programming/infotep-jadom/prestamo.sql)**: Script de creación y semilla de la base de datos principal de **Préstamos** proporcionada por el docente.
 *   **📄 [practice-1.sql](file:///home/hanuel/main/personal/courses/programming/infotep-jadom/practice-1.sql)**: Resolución de la Práctica 1.
 *   **📄 [practice-2.sql](file:///home/hanuel/main/personal/courses/programming/infotep-jadom/practice-2.sql)**: Resolución de la Práctica 2.
